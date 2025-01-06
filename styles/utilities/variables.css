@@ -1,0 +1,10 @@
+:root {
+    /* Colors */
+    --color-primary: #282828;
+    --color-secondary: #FFFFFF;
+    --color-black: #000000;
+
+    /* Typography */
+    --font-primary: 'LibreBaskerville', sans-serif;
+    --font-secondary: 'Montserrat', sans-serif;
+};
