@@ -1,0 +1,23 @@
+.btn{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+}
+.btn-sm{
+height: 45px;
+width: 131.4px;
+border-radius: 30px;
+
+}
+.btn-default{
+height: 51px;
+width: 160px;
+border-radius: 40px;
+}
+.btn-outline{
+border: 1px var(--color--black);
+background: none;
+}
+.btn-filled{
+background-color: var(--color-secondary);
+}
