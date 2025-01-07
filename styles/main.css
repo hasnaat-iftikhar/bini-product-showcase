@@ -1,1 +1,9 @@
-@import url(./components/buttons.css);
+/* Utility */
+@import "./utilities/variables.css";
+@import "./utilities/fonts.css";
+
+/* Global */
+@import "./global.css";
+
+/* Base components */
+@import "./components/buttons.css";

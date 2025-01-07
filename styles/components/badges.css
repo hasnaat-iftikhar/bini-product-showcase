@@ -1,15 +1,17 @@
-.badge{
-height:  54px;
-border-radius: 40px;
-font-family: Montserrat;
-font-size: 14px;
-font-weight: 400;
+.badge {
+	height: 54px;
+	border-radius: 40px;
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
 }
-.badge-light{
-    background-color: var(--color-offWhite);
-    color: var(--color--primary);
+
+.badge-light {
+	background-color: var(--color-offWhite);
+	color: var(--color--primary);
 }
-.badge-dark{
-    background-color: var(--color--primary);
-    color: var(--color-offWhite);
+
+.badge-dark {
+	background-color: var(--color--primary);
+	color: var(--color-offWhite);
 }
