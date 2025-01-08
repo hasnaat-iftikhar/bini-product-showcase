@@ -1,9 +1,10 @@
 .badge {
+    width: fit-content;
     height: 54px;
     border-radius: 999px;
     font-size: 14px;
     font-weight: 400;
-    padding: 17px 35px;
+    padding: 0 34px;
     display: flex;
     justify-content: center;
     align-items: center;
