@@ -9,3 +9,6 @@
 @import "./components/buttons.css";
 @import "./components/badges.css";
 @import "./components/navigation.css";
+
+/* Layout components */
+@import "./layout/header.css";
