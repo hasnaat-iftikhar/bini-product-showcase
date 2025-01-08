@@ -1,0 +1,11 @@
+.nav-link {
+    text-decoration: none;
+    color: var(--color-offWhite);
+    font-size: 14px;
+    opacity: 0.8;
+    transition: 0.2s all ease-in-out;
+};
+
+.nav-link:hover {
+    opacity: 1
+};
