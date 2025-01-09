@@ -1,5 +1,8 @@
 .header{
     justify-content: space-between;
+    align-items: center;
     display: flex;
+    margin: 25px 30px;
+
 
 }

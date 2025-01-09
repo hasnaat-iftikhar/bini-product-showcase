@@ -8,8 +8,9 @@
 /* Base components */
 @import "./components/buttons.css";
 @import "./components/badges.css";
-@import "./components/nav-link.css";
 @import "./components/nav-menu.css";
+@import "./components/nav-link.css";
+
 
 /* Layout components */
 @import "./layout/header.css";
