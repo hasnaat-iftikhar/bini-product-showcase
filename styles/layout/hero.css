@@ -1,0 +1,12 @@
+.hero-container {
+    height: 726px;
+    background: transparent;
+    gap: 19px;
+    display: flex;
+    margin-top: 150px;
+}
+.hero-container-text{
+    font-size: 150px;
+    font-family: 'LibreBaskerville-Bold';
+    color: var(--color-secondary);
+}
