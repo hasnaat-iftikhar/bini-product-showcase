@@ -1,11 +1,13 @@
 .hero-container {
-    height: 726px;
-    background: transparent;
-    gap: 19px;
     display: flex;
+    justify-content: center;
+    gap: 19px;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 150px;
 }
-.hero-container-text{
+
+.hero-heading-text{
     font-size: 150px;
     font-family: 'LibreBaskerville-Bold';
     color: var(--color-secondary);
