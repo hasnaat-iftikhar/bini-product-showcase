@@ -1,0 +1,22 @@
+.badge {
+    width: fit-content;
+    height: 54px;
+    border-radius: 999px;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 0 34px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.badge-light {
+    background-color: var(--color-offWhite);
+    color: var(--color-primary);
+}
+
+.badge-dark {
+    background-color: var(--color-primary);
+    color: var(--color-offWhite);
+}

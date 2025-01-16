@@ -1,0 +1,22 @@
+/* Utility */
+@import "./utilities/variables.css";
+@import "./utilities/fonts.css";
+
+/* Global */
+@import "./global.css";
+
+/* Base components */
+@import "./components/buttons.css";
+@import "./components/badges.css";
+@import "./components//logo.css";
+@import "./components/nav-menu.css";
+@import "./components/nav-link.css";
+
+
+/* Layout components */
+@import "./layout/header.css";
+@import "./layout/hero.css";
+@import "./layout/containers.css";
+
+/* Sections */
+@import "./section/hero.css";

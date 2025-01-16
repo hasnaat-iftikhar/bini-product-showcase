@@ -1,16 +1,32 @@
+/* CDN Code for both font families */
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
 /* LibreBaskerville */
 @font-face {
     font-family: 'LibreBaskerville';
-    src: url('file-path') format('woff2');
+    src: url('../../assets/fonts/LibreBaskerville-Regular.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
 };
 
 @font-face {
-    font-family: 'LibreBaskerville';
-    src: url('file-path') format('woff2');
+    font-family: 'LibreBaskerville-Bold';
+    src: url('../../assets/fonts/LibreBaskerville-Bold.woff2') format('woff2');
     font-weight: 700;
     font-style: normal;
 };
 
 /* Montserrat */
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../../assets/fonts/Montserrat-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+};
+
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url('../../assets/fonts/Montserrat-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+};

@@ -1,0 +1,15 @@
+.nav-menu {
+    display: flex;
+    justify-content: start;
+    align-items: start;
+}
+
+.nav-menu-horizontal {
+    flex-direction: row;
+    gap: 56px;
+}
+
+.nav-menu-vertical {
+    flex-direction: column;
+    gap: 26px;
+}
