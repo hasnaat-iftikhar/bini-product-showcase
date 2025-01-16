@@ -1,0 +1,21 @@
+.featured-section {
+    position: relative;
+}
+
+.circle {
+    border-radius: 50%;
+    position: relative;
+}
+
+.circle-large {
+    height: 1120px;
+    width: 1120px;
+    background-color: var(--color-light-gray);
+}
+
+.circle-small {
+    height: 900px;
+    width: 900px;
+    background-color: var(--color-ash-gray);
+
+}
