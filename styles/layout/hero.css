@@ -9,6 +9,6 @@
 
 .hero-heading-text{
     font-size: 150px;
-    font-family: 'LibreBaskerville-Bold';
+    font-family: var(--font-primary-Bold);
     color: var(--color-secondary);
 }

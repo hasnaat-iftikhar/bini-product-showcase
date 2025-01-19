@@ -4,8 +4,14 @@
     --color-secondary: #FFFFFF;
     --color-black: #000000;
     --color-offWhite: #F4F4F1;
+    --color-lightgray: #DDDDDB;
+    --color-ashgray: #D1D1CD;
+    
+
 
     /* Typography */
     --font-primary: 'LibreBaskerville', sans-serif;
     --font-secondary: 'Montserrat', sans-serif;
+    --font-primary-Bold: 'LibreBaskerville-Bold';
+    --font-secondary-Bold: 'Montserrat-Bold', sans-serif;
 };
