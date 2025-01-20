@@ -18,6 +18,7 @@
 @import "./layout/hero.css";
 @import "./layout/containers.css";
 @import "./layout/featured-section.css";
+@import "./layout/Highlights.css";
 
 /* Sections */
 @import "./section/hero.css";

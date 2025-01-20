@@ -1,7 +1,8 @@
 .featured-section {
     display: flex;
-    align-items: center;
+    align-items: start;
     justify-content: center;
+    height: 1396px;
 }
 
 .circle {
@@ -24,22 +25,24 @@
     background-color: var(--color-ashgray);
 }
 
-.featured-txt{
+.featured-txt {
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 10px;
 }
-.featured-heading{
+
+.featured-heading {
     font-family: var(--font-primary-Bold);
     font-size: 42px;
 
 }
-.featured-para{
+
+.featured-para {
     font-size: 22px;
 
 }
 
-.featured-img{
+.featured-img {
     margin-bottom: -530px;
 }
